@@ -1,2 +1,2 @@
 # Questions
-Questions created for separate topics
+Basic python excercises
