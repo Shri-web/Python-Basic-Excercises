@@ -1,1 +1,14 @@
 This module consist of Basic python questions of different difficult level.
+The topics are from 
+- Introduction to python
+- Data types
+- Looping and conditional statement
+- Data Structures of List, Tuple, Dictionary and String
+- OOPS function
+    - functions
+    - class and objects
+    - modules
+    - inheritance
+    - encapsulation
+    - exception handling
+- python and database connectivity
