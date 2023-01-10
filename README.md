@@ -1,2 +1,2 @@
-# Questions
-Basic python excercises
+# Content
+This repository contains questions from diffent python chapters
